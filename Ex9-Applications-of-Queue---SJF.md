@@ -14,11 +14,6 @@ To incorporate the code to calculate the Total Waiting Time and Average Waiting 
 
 ## Program:
 ```
-Program to find the Total Waiting Time and Average Waiting Time in Shortest Job First scheduling algorithm.
-Developed by: Bharath Raj P
-RegisterNumber:  212223230031
-```
-```
 #include<stdio.h>
  
 int main()
