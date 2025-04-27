@@ -13,11 +13,6 @@ To formulate the C code to display the elements of the priority queue after inse
 
 ## Program:
 ```
-Program to o display the elements of the priority queue after insertion and deletion operation
-Developed by: Bharath Raj P
-RegisterNumber:  212223230031
-```
-```
 void printArray(int array[], int size) {
   int i;
   for(i=0;i<size;++i){
