@@ -14,11 +14,6 @@ To write a C function to count the number of elements present in the deque.
 8. End 
 ## Program:
 ```
-Program to count the number of elements present in the deque
-Developed by: Bharath Raj P
-RegisterNumber:  212223230031
-```
-```
 int count(int *arr) {
   int c = 0, i;
   for(i=0;i<MAX;i++){
